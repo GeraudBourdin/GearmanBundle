@@ -1,9 +1,9 @@
 {
-    "name": "supertag/gearman-bundle",
+    "name": "geraudbourdin/gearmanbundle",
     "type": "symfony-bundle",
     "description": "Gearman bundle for Symfony2 to manage and monitor PHP gearman jobs and queue",
     "keywords": ["gearman", "php", "job", "symfony2", "bundle", "queue", "supertag"],
-    "homepage": "http://github.com/supertag/GearmanBundle",
+    "homepage": "http://github.com/GeraudBourdin/GearmanBundle",
     "license": "MIT",
 
     "authors": [
@@ -13,7 +13,7 @@
         },
         {
             "name": "Symfony2 Community",
-            "homepage": "http://github.com/supertag/GearmanBundle/contributors"
+            "homepage": "http://github.com/geraudbourdin/GearmanBundle/contributors"
         }
     ],
 
